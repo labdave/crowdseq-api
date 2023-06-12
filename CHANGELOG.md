@@ -1,5 +1,12 @@
 CHANGELOG
 
+## [1.0.3](https://github.com/labdave/crowdseq-api/compare/v1.0.2...v1.0.3) (2023-06-12)
+
+
+### Bug Fixes
+
+* **requirements:** update the requirements files ([1c06d27](https://github.com/labdave/crowdseq-api/commit/1c06d2791282997d95cc5c41d52da402d752504d))
+
 ## [1.0.2](https://github.com/labdave/crowdseq-api/compare/v1.0.1...v1.0.2) (2023-06-12)
 
 
