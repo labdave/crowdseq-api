@@ -2,6 +2,9 @@
 .git
 .gitignore
 
+# VS Code
+.vscode
+
 # CI
 .codeclimate.yml
 .travis.yml
@@ -76,6 +79,7 @@ docs/_build/
 target/
 
 # Virtual environment
+.env
 .env/
 .venv/
 venv/
