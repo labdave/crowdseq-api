@@ -14,3 +14,4 @@ requests==2.27.1
 sqlparse==0.2.4
 Aries-storage
 google-cloud-logging
+python-dotenv==0.20.0
