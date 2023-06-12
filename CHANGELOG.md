@@ -1,5 +1,12 @@
 CHANGELOG
 
+## [1.0.4](https://github.com/labdave/crowdseq-api/compare/v1.0.3...v1.0.4) (2023-06-12)
+
+
+### Bug Fixes
+
+* **views:** remove unnecessary import ([938d6be](https://github.com/labdave/crowdseq-api/commit/938d6befeebe088e982ab5637912df932b14ae21))
+
 ## [1.0.3](https://github.com/labdave/crowdseq-api/compare/v1.0.2...v1.0.3) (2023-06-12)
 
 
