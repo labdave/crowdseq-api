@@ -1,5 +1,12 @@
 CHANGELOG
 
+## [1.0.2](https://github.com/labdave/crowdseq-api/compare/v1.0.1...v1.0.2) (2023-06-12)
+
+
+### Bug Fixes
+
+* **dockerfile:** update the Docker file ([cdcd08f](https://github.com/labdave/crowdseq-api/commit/cdcd08f15613d18b21ba1c4c71b42a671ed5b860))
+
 ## [1.0.1](https://github.com/labdave/crowdseq-api/compare/v1.0.0...v1.0.1) (2023-06-12)
 
 
