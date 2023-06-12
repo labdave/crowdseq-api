@@ -20,7 +20,7 @@ from rest_framework.response import Response
 
 from . import models, serializers
 from .permissions import CanReleaseResultsPermission
-from .regex import SINGLE_TERM_QUERIES, MULTI_TERM_QUERIES
+from .regex import SINGLE_TERM_QUERIES
 
 # Get an instance of a logger
 logger = logging.getLogger(__name__)
