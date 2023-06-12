@@ -1,5 +1,12 @@
 CHANGELOG
 
+## [1.0.1](https://github.com/labdave/crowdseq-api/compare/v1.0.0...v1.0.1) (2023-06-12)
+
+
+### Bug Fixes
+
+* **releaserc:** update the list of branches in releaserc config ([c055b40](https://github.com/labdave/crowdseq-api/commit/c055b402b56e531bc1017c447c3b0be39eea4c87))
+
 # 1.0.0 (2023-06-12)
 
 
