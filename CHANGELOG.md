@@ -1,5 +1,12 @@
 CHANGELOG
 
+## [1.0.5](https://github.com/labdave/crowdseq-api/compare/v1.0.4...v1.0.5) (2023-06-12)
+
+
+### Bug Fixes
+
+* adding vs_code to git and docker ignores ([931a71c](https://github.com/labdave/crowdseq-api/commit/931a71ca7a01bb13335ba668594fd75eef59cf9e))
+
 ## [1.0.4](https://github.com/labdave/crowdseq-api/compare/v1.0.3...v1.0.4) (2023-06-12)
 
 
